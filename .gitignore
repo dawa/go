@@ -1,0 +1,8 @@
+bin
+pkg
+src/golang.org/x/tools
+src/github.com/julienschmidt/httprouter
+src/github.com/golang/example
+src/github.com/BurntSushi/toml
+src/github.com/shapeshed/golang-book-examples
+
